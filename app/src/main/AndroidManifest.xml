@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/icono_sombrero_2_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HatStore">
+
         <activity
             android:name=".splash"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
